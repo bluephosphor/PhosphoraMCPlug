@@ -1,0 +1,7 @@
+name: Phosphora
+version: '${project.version}'
+main: me.phosphoramc.phosphora.Phosphora
+api-version: 1.18
+authors: [ nikotheghost ]
+description: Phosphora MC Server
+website: http://bluephosphor.github.io/portfolio
