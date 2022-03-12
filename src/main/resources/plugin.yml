@@ -6,9 +6,6 @@ authors: [ nikotheghost ]
 description: Phosphora MC Server
 website: http://bluephosphor.github.io/portfolio
 commands:
-  god:
-    description: Become invulnerable.
-    usage: /<command>
-  eat:
-    description: Refill hunger.
+  shadowvault:
+    description: Open item vault.
     usage: /<command>
